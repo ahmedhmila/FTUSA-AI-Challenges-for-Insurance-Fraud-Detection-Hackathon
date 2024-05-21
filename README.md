@@ -10,8 +10,9 @@
 7. [ROC Curve](#roc-curve)
 8. [Application to Raw Data](#application-to-raw-data)
 9. [Alternative Approach: Analysis of Schemes](#alternative-approach-analysis-of-schemes)
-10. [Conclusion](#conclusion)
-11. [Future Work](#future-work)
+10. [Presentation Slides](#presentation-slides)
+11. [Conclusion](#conclusion)
+12. [Future Work](#future-work)
 
 
 
@@ -136,6 +137,14 @@ Despite the challenges faced in this approach, it was a valuable learning experi
 
 
 This alternative approach and its challenges are documented in detail in the `Notebooks/Schemes.ipynb` notebook.
+
+## Presentation Slides
+
+The presentation slides for this project can be found at the following link:
+
+[Canva Presentation Slides](<https://www.canva.com/design/DAGFp8s75Pw/RBmjOIlgBmzsQk7czq3tew/edit?utm_content=DAGFp8s75Pw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton>)
+
+You can obtain this link from the `CanvaLinx.txt` file.
 
 ## Conclusion
 
