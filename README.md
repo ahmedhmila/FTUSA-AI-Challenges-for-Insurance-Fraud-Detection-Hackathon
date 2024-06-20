@@ -1,4 +1,4 @@
-# FTUSA-AI-Challenges-for-Insurance-Fraud-Detection-Hackathon
+# FTUSA-AI-Challenges-for-Insurance-Fraud-Detection-Hackathon-Winning-Solution
 
 ## Table of Contents
 1. [Introduction](#introduction)
